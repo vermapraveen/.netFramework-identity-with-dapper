@@ -1,6 +1,7 @@
 # .netFramework-identity-with-dapper
 Dapper Micro ORM with Asp.Net Identity 2.2.1 in place of Entity Framework
 
+# Uses
 ### Declaration
     [Authorize]
     public class AccountController : Controller
